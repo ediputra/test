@@ -1241,42 +1241,8 @@ http://ktvs.xyz:8080/Amber36/35897447/49683
 #EXTINF:-1 tvg-id="" tvg-name="SSC-EXTRA-3(multi sound)" tvg-logo="" group-title="AR | SSC SPORTS",SSC-EXTRA-3(multi sound)
 #EXTGRP: [SSC]
 http://ktvs.xyz:8080/Amber36/35897447/49684
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 1 FHD" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 1 FHD
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51881
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 2 FHD" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 2 FHD
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51882
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 3 FHD" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 3 FHD
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51883
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 1 (Stc-Hd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 1 (Stc-Hd)
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51884
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 2 (Stc-Hd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 2 (Stc-Hd)
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51885
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 3 (Stc-Hd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 3 (Stc-Hd)
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51886
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 1 (Stc-sd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 1 (Stc-sd)
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51887
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 2(Stc-sd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 2(Stc-sd)
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51888
-#EXTINF:-1 tvg-id="" tvg-name="AD Premum 3 (Stc-sd)" tvg-logo="" group-title="AR | AD-SPORTS",AD Premum 3 (Stc-sd)
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51889
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORTS Premium StarzPlay-1" tvg-logo="" group-title="AR | AD-SPORTS",AD SPORTS Premium StarzPlay-1
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51890
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORTS Premium StarzPlay-2" tvg-logo="" group-title="AR | AD-SPORTS",AD SPORTS Premium StarzPlay-2
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51891
-#EXTINF:-1 tvg-id="" tvg-name="AD SPORTS Premium StarzPlay-3" tvg-logo="" group-title="AR | AD-SPORTS",AD SPORTS Premium StarzPlay-3
-#EXTGRP: StarzPlay
-http://ktvs.xyz:8080/Amber36/35897447/51892
+
+
 #EXTINF:-1 tvg-id="bein.sports.1.ae" tvg-name="BN028:Bein Sport 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN028BeinSport1FHD.png" group-title="Arab Bein",BN028:Bein Sport 1 FHD
 #EXTGRP: [IptvVip]
 http://ns1.iptvcodes.org:8880/D12m4288/22972676/59271
