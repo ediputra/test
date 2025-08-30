@@ -2706,17 +2706,3 @@ https://events3.liveboxpro.com/event/379.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 group-title="SPORTS LAMA" tvg-logo="https://i.imgur.com/wQ9HXyP.jpeg", ESPN 2
 https://events3.liveboxpro.com/event/386.m3u8
-
-#EXTINF:-1 group-title="SPORTS LAMA" tvg-logo="https://i.imgur.com/wq6hzUb.jpeg", ESPN 4
-
-#EXTINF:-1 group-title="SPORTS LAMA" tvg-logo="https://i.imgur.com/tLBq5Rr.jpeg", DIEMA SPORT 1
-
-#EXTINF:-1 group-title="SPORTS LAMA" tvg-logo="https://i.imgur.com/kF91ZKy.jpeg", DIEMA SPORT 2
-
-#EXTINF:-1 group-title="SPORTS LAMA" tvg-logo="https://i.imgur.com/goL0Oz9.png", DIEMA SPORT 3
-
-#EXTINF:-1 group-title="SPORTS LAMA" tvg-logo="https://i.imgur.com/42abUXS.png", FOX SPORTS 1
-
-#EXTINF:-1 group-title="SPORTS LAMA" tvg-logo="https://i.imgur.com/VWqZ0at.png", FOX SPORTS 2
-
-#EXTINF:-1 group-title="SPORTS LAMA" tvg-logo="https://i.imgur.com/SnC2LGF.jpeg", CBS SPORTS NETWORK
