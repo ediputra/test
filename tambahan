@@ -10,6 +10,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="MOTOGP F1",SpoTV HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="MOTOGP F1",SpoTV 2 HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+
+
 
 <=================== BEIN channel =============================>
 
@@ -111,7 +125,7 @@ http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6100
 
 
 
-<==================== Sport ====================>
+<==================== Sport channel ====================>
 
 
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="SPORTS ", FOX SPORTS 1
@@ -209,7 +223,7 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116.m3u8
 
 
 
-<============================ Sports 1 ==========================>
+<============================ Sports 1 channel ==========================>
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -288,17 +302,6 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports 1",SpoTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports 1",SpoTV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 group-title="Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png", Sportstars 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -351,7 +354,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 
 
 
-<============================ Sports 2 ========================>
+<============================ Sports 2 channel ========================>
 
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Sports 2",Champions TV 1
@@ -390,19 +393,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-
-
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports 2",SpoTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports 2",SpoTV 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 #EXTINF:-1 tvg-id="beIN SPORTS (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports 2" tvg-logo="https://www.visionplus.id/images/repository/564/200564-SNAPSHOT-l.png", beIN Sports 1 ID
@@ -657,7 +647,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 
 
 
-<============================ Sports 3 ========================>
+<============================ Sports 3 channel ========================>
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="Sports 3",mnc sport1
@@ -894,7 +884,7 @@ http://yesimes.oknirvana.club:8880/D12m3714/63343961/3083
 http://yesimes.oknirvana.club:8880/D12m3714/63343961/30089
 
 
-<============================ Sports 4 ========================>
+<============================ Sports 4 channel ========================>
 
 
 #EXTINF:-1 group-title="Sports 4" tvg-name="STARSPORT 3" tvg-country="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjAOTJqNHvQSJlNu9D-B5YUczx8p8MoNqTTTxx_wbtWDtbIgN3d3nfFZ00r9T6dwsHR69Z2_cPmf4e-rUvxrWvMLq6kdCTQA7kMdUAnVinqU6XdO9mSX8DVMXBRmAOYlfm4pzvKy3yf-iDHCSQvSlSsIA3p60Y-bS_U091XxDdzGhrmpOpwyCVoWR5GQ1H/s1280/PicRetouch_20250305_090625030.png",Sportstar 3 
@@ -941,19 +931,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_kMNu0217Q60sOIpxLY3val_m7ilNj7wurSgS_d3bKwsvmZ1RGFtxK2dyq0QwFwgk9yeLMjYJoAGotsQ06tiXBDeh_vJBLc6K1loSqOexLPhJTj8J5H4m9O6q6rSk24-x4qT0I5TE7xnTgcntB1Mc-BZ4Z7x72ralNdcGifkpx77ita56RHDpEYbGn9wN/s1280/PicRetouch_20250305_090645240.png" group-title="Sports 4",Soccer Channel-HD
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaQuu02Y51gDuRj1nLWgM3Mmg7xP6px5rfy56vxdds9R0IjRIE7Ec7h68-Q1NcvAaPIDV-RuIHTMvJp2bUcTF4ZjhiVSjokaA-c_8Q-VLD8hnQG2AbG59GpCiu0o1_LfxTis4y2-I_ytmjhi8IKaF6nWWGdo7peF3_yy9o9Jl00iug7D3Xat0LIopduTHZ/s1280/PicRetouch_20250305_090711932.png" group-title="Sports 4",SpoTV
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrhjZErE_ivghwnNRmqIGXec0uc9uzDdpdzXDvk-G-4UUOZ6IGXPuOQ6kFlvLGzXzXDElvx-clfkNoePGKHrHJBoWaUrHwTJxM1M-VVN3xwhCudWQO0SaHbD3rbJL6BdaZ6VIK4hMGWwWTWzUs0RKPKRoO4AGhptz-5JY-GezU_TIQvamypvY9c2xPuxq/s1280/PicRetouch_20250305_090726948.png" group-title="Sports 4",SpoTV 2
-https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1191,17 +1168,7 @@ https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 
 
 
-<=============== Sport 5 ================>
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SPOTV.png" group-title="Sports 5",001. SPOTV1
-https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SPOTV2.png" group-title="Sports 5",002. SPOTV2
-https://wahyu1ptv.pages.dev/SPOTV2-HD.m3u8
-
+<=============== Sport 5 channel ================>
 
 
 
@@ -1750,7 +1717,7 @@ https://wahyu1ptv.pages.dev/UFCFightPass-HD.m3u8
 https://wahyu1ptv.pages.dev/NBATV-HD.m3u8
 
 
-<=================== Arena Sport ===================>
+<=================== Arena Sport channel ===================>
 
 #EXTINF:-1 tvg-name="arena sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0cbb5978c829aecd89ee19dffae6bb33.png" group-title="Arena Sports",Arena Sport 1
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/291133
@@ -1829,7 +1796,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/296564
 
 
 
-<======================== Premium Movies ==========================>
+<======================== Premium Movies channel ==========================>
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="Premium Movies",Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
