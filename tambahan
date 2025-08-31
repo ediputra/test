@@ -72,7 +72,73 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
+<=================== BEIN =============================>
 
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/334642
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 SD 480
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/35762
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 720
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/351541
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 HD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/98925
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 FHD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/126272
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 H265
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/190072
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 4K FEED
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/35650
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 8K FEED
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/191152
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 HD kutu YAYIN
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/456568
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1 HD BOX
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/456567
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2 SD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/196216
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2 HD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/35730
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2 UHD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/195811
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3 SD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/196217
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3 HD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6097
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3 UHD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/195812
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4 SD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/196218
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4 HD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6098
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4 UHD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/195813
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5 HD
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/125936
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports Max 1
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6099
+
+#EXTINF:-1 group-title="BEIN " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",beIN Sports Max 2
+http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6100
 
 
 <=================== S HD =============================>
@@ -206,50 +272,7 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 #EXTINF:-1 group-title="SPORTS " tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
 
-#EXTINF:-1,|TR| beIN Sports 1 (TTNET ÖZEL)
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/334642
-#EXTINF:-1,|TR| beIN Sports 1 SD [480p]
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/35762
-#EXTINF:-1,|TR| beIN Sports 1 720p
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/351541
-#EXTINF:-1,|TR| beIN Sports 1 HD [VIP]
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/98925
-#EXTINF:-1,|TR| beIN Sports 1 FHD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/126272
-#EXTINF:-1,|TR| beIN Sports 1 VIP H265
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/190072
-#EXTINF:-1,|TR| beIN Sports 1 4K [Feed]
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/35650
-#EXTINF:-1,|TR| beIN Sports 1 8K [Feed]
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/191152
-#EXTINF:-1,|TR| beIN Sports 1 HD (Kutu Yayin)
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/456568
-#EXTINF:-1,|TR| beIN Sports 1 HD (BoX)
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/456567
-#EXTINF:-1,|TR| beIN Sports 2 SD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/196216
-#EXTINF:-1,|TR| beIN Sports 2 HD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/35730
-#EXTINF:-1,|TR| beIN Sports 2 UHD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/195811
-#EXTINF:-1,|TR| beIN Sports 3 SD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/196217
-#EXTINF:-1,|TR| beIN Sports 3 HD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6097
-#EXTINF:-1,|TR| beIN Sports 3 UHD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/195812
-#EXTINF:-1,|TR| beIN Sports 4 SD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/196218
-#EXTINF:-1,|TR| beIN Sports 4 HD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6098
-#EXTINF:-1,|TR| beIN Sports 4 UHD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/195813
-#EXTINF:-1,|TR| beIN Sports 5 HD
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/125936
-#EXTINF:-1,|TR| beIN Sports Max 1
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6099
-#EXTINF:-1,|TR| beIN Sports Max 2
-http://protip85.shop:8080/Fincanium/TUYpMf2Ng9nP/6100
+
 
 #EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
